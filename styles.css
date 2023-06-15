@@ -1,0 +1,43 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body{
+    display: block;
+    margin: 8px;
+    background-color: black;
+}
+
+h1{
+    text-align: center;
+    color: white;
+}
+
+table {
+    border: 2px solid yellow;
+    width: 650px;
+    margin: 0 auto;
+}
+
+thead{
+  background-color: white;
+  vertical-align: center;
+}
+
+thead tr{
+  color: black;
+}
+
+tbody{
+  background-color: grey;
+}
+
+tr{
+  color: white;
+}
+
+.code{
+  background-color: yellow;
+  color: black;
+  font-family: monospace;
+}
